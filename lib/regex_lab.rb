@@ -22,6 +22,7 @@ state = nil
   else
     state = false
   end
+  binding.pry
   return state
 end
 
